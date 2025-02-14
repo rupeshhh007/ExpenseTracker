@@ -1,26 +1,47 @@
 
 # ExpenseTracker
 =======
+<img width="1275" alt="image" src="https://github.com/user-attachments/assets/953b9209-e6ac-4f23-ad8b-e19659b10606" />
+
+
+
+
+
 
 This is an expense tracker application that can manage your finances in an organized and categorized manner.
 
 It comes in two themes : 
-i) Light ii) Dark
+i) Light ~ <img width="1355" alt="image" src="https://github.com/user-attachments/assets/4a6f4013-acee-4dcd-8295-c942aee99d62" />
+
+
+
+ii) Dark ~ <img width="1355" alt="image" src="https://github.com/user-attachments/assets/e79ac0ce-d6e5-4f49-8dfd-9cf38c1a876c" />
+
+
+Click on the above icons to toggle between them!
+
 
 The expenses and income is divided into multiple categories.A button is connected to add any category along with a suitable icon and color
 
 The home screen contains an account slider to switch between multiple accounts.
 
 
-<img width="404" alt="image" src="https://github.com/user-attachments/assets/cae8376f-6f33-48d9-9591-b870fc59403d" /><img width="404" alt="image" src="https://github.com/user-attachments/assets/6cd11154-8cc1-4acd-acc3-52ec3d6c7b8f" /> <img width="404" alt="image" src="https://github.com/user-attachments/assets/046be597-d0c6-4dd7-bc5b-aec9c533459e" /><img width="404" alt="image" src="https://github.com/user-attachments/assets/df54db3e-9710-47d9-b323-410337a9c63c" /><img width="404" alt="image" src="https://github.com/user-attachments/assets/eda8d20e-5e5e-4e36-afb6-aae15aa385f3" /><img width="404" alt="image" src="https://github.com/user-attachments/assets/da61f42d-34e5-4fe1-8853-ac831a36344c" />
+
+
+# Installation 
+
+-clone the git repository using the project git link
+-install the dependencies using flutter pub get command
+-use flutter run to execute.
+
+# Usage
+
+-Once you click on get started and enter your name, a home screen will pop up showing the accounts,expenses,incomes and transaction history
+-Click on the "+" button to add an entry to the dataset
+-Click on accounts button to get into accounts section to edit or delete an account.
+-Click on settings tab to change username or currency.
+-Click on categories to view/edit each category's budget and add any new categories with appropriate color and icon
 
 
 
-
-
-
-
-
-![Screenshot_1739533232](https://github.com/user-attachments/assets/67dcb19c-8094-4ac2-b4c5-8c1e8cea361a)
-![Screenshot_1739533240](https://github.com/user-attachments/assets/74568968-b74a-4f62-82fa-66a1549af76a)
-![Screenshot_1739533229](https://github.com/user-attachments/assets/af557e30-78b0-40b4-b80c-8557d3bb9b11)
+THANK YOU !
