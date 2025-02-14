@@ -30,17 +30,23 @@ The home screen contains an account slider to switch between multiple accounts.
 
 # Installation 
 
--clone the git repository using the project git link
--install the dependencies using flutter pub get command
--use flutter run to execute.
+1.clone the git repository using the project git link
+
+2.install the dependencies using flutter pub get command
+
+3.use flutter run to execute.
 
 # Usage
 
--Once you click on get started and enter your name, a home screen will pop up showing the accounts,expenses,incomes and transaction history
--Click on the "+" button to add an entry to the dataset
--Click on accounts button to get into accounts section to edit or delete an account.
--Click on settings tab to change username or currency.
--Click on categories to view/edit each category's budget and add any new categories with appropriate color and icon
+1.Once you click on get started and enter your name, a home screen will pop up showing the accounts,expenses,incomes and transaction history
+
+2.Click on the "+" button to add an entry to the dataset
+
+3.Click on accounts button to get into accounts section to edit or delete an account.
+
+4.Click on settings tab to change username or currency.
+
+5.Click on categories to view/edit each category's budget and add any new categories with appropriate color and icon
 
 
 
