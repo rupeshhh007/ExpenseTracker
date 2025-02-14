@@ -11,11 +11,14 @@
 This is an expense tracker application that can manage your finances in an organized and categorized manner.
 
 It comes in two themes : 
-i) Light ~ <img width="1355" alt="image" src="https://github.com/user-attachments/assets/4a6f4013-acee-4dcd-8295-c942aee99d62" />
+i) Light ~ <img width="1345" alt="image" src="https://github.com/user-attachments/assets/cf3f8046-3aad-4ad3-ace1-965e9d61712e" />
 
 
 
-ii) Dark ~ <img width="1355" alt="image" src="https://github.com/user-attachments/assets/e79ac0ce-d6e5-4f49-8dfd-9cf38c1a876c" />
+
+
+ii) Dark ~ <img width="1322" alt="image" src="https://github.com/user-attachments/assets/6960e563-6fd8-44cb-b481-9a2ef626e314" />
+
 
 
 Click on the above icons to toggle between them!
