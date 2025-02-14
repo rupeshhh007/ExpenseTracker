@@ -1,7 +1,7 @@
 
 # ExpenseTracker
 =======
-<img width="1275" alt="image" src="https://github.com/user-attachments/assets/953b9209-e6ac-4f23-ad8b-e19659b10606" />
+
 
 
 
