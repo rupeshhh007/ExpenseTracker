@@ -1,20 +1,15 @@
-<<<<<<< HEAD
+
 # ExpenseTracker
 =======
-# expense_tracker
 
-A new Flutter project.
+This is an expense tracker application that can manage your finances in an organized and categorized manner.
 
-## Getting Started
+It comes in two themes : 
+i) Light ii) Dark
 
-This project is a starting point for a Flutter application.
+The expenses and income is divided into multiple categories.A button is connected to add any category along with a suitable icon and color
 
-A few resources to get you started if this is your first Flutter project:
+The home screen contains an account slider to switch between multiple accounts.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 12c6cc8 (Initial commit)
+![image](https://github.com/user-attachments/assets/6129aa2b-4d94-4b46-8373-2a0f3662efd3)
