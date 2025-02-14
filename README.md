@@ -12,6 +12,8 @@ The expenses and income is divided into multiple categories.A button is connecte
 The home screen contains an account slider to switch between multiple accounts.
 
 
-<img width="404" alt="image" src="https://github.com/user-attachments/assets/cae8376f-6f33-48d9-9591-b870fc59403d" /><img width="404" alt="image" src="https://github.com/user-attachments/assets/6cd11154-8cc1-4acd-acc3-52ec3d6c7b8f" /> <img width="404" alt="image" src="https://github.com/user-attachments/assets/046be597-d0c6-4dd7-bc5b-aec9c533459e" />
+<img width="404" alt="image" src="https://github.com/user-attachments/assets/cae8376f-6f33-48d9-9591-b870fc59403d" /><img width="404" alt="image" src="https://github.com/user-attachments/assets/6cd11154-8cc1-4acd-acc3-52ec3d6c7b8f" /> <img width="404" alt="image" src="https://github.com/user-attachments/assets/046be597-d0c6-4dd7-bc5b-aec9c533459e" /><img width="404" alt="image" src="https://github.com/user-attachments/assets/df54db3e-9710-47d9-b323-410337a9c63c" /><img width="404" alt="image" src="https://github.com/user-attachments/assets/eda8d20e-5e5e-4e36-afb6-aae15aa385f3" />
+
+
 
 
