@@ -29,7 +29,33 @@ The expenses and income is divided into multiple categories.A button is connecte
 
 The home screen contains an account slider to switch between multiple accounts.
 
+# Features
+🔹 Core Features -
+✅ Track Expenses & Income – Log all your transactions with ease.
+✅ Account Management – Manage multiple accounts (Cash, Bank, Credit Card).
+✅ Category Management – Organize transactions by categories like Food, Travel, Bills.
+✅ Payment Methods – Store and use different payment methods (Cash, Card, UPI).
 
+🔹 User Interface & Experience
+🎨 Onboarding Screens – Profile setup and currency selection.
+📊 Dashboard/Home Screen – Overview of accounts & recent transactions.
+📜 Expense & Income Forms – Easy-to-use forms for adding transactions.
+⚙ Settings Screen – Customize app preferences and themes.
+
+🔹 Data & Storage
+🗄 Local Database (SQLite) – Securely store all transaction data.
+🔄 Database Migration Support – Smooth updates without data loss.
+💰 Currency Support – Helpers for currency conversion.
+
+🔹 Cross-Platform Support
+📱 Android & iOS – Works seamlessly on mobile devices.
+💻 Windows, macOS, Linux – Fully functional desktop version.
+🌍 Web Version – Available for use in browsers.
+
+🔹 Additional Features
+🎨 Custom Theming – Light/Dark mode support (potential feature).
+⚡ State Management with BLoC – Efficient app performance.
+🔄 Reusable Components – Buttons, modals, and UI elements.
 
 
 # Installation 
