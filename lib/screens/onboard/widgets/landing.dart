@@ -82,7 +82,7 @@ class LandingPage extends StatelessWidget {
               ),
               const SizedBox(height: 20),
 
-              // Get Started Button
+              
               Container(
                 alignment: Alignment.bottomRight,
                 child: AppButton(
